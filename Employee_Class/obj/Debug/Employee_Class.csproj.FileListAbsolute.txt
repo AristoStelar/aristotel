@@ -1,0 +1,9 @@
+C:\Scoala\Practica\Employee_Class\Employee_Class\bin\Debug\Employee_Class.exe.config
+C:\Scoala\Practica\Employee_Class\Employee_Class\bin\Debug\Employee_Class.exe
+C:\Scoala\Practica\Employee_Class\Employee_Class\bin\Debug\Employee_Class.pdb
+C:\Scoala\Practica\Employee_Class\Employee_Class\obj\Debug\Employee_Class.csprojResolveAssemblyReference.cache
+C:\Scoala\Practica\Employee_Class\Employee_Class\obj\Debug\Employee_Class.exe
+C:\Scoala\Practica\Employee_Class\Employee_Class\obj\Debug\Employee_Class.pdb
+C:\Scoala\Practica\Project Employer\Employee_Class\bin\Debug\Employee_Class.exe.config
+C:\Scoala\Practica\Project Employer\Employee_Class\obj\Debug\Employee_Class.exe
+C:\Scoala\Practica\Project Employer\Employee_Class\obj\Debug\Employee_Class.pdb
